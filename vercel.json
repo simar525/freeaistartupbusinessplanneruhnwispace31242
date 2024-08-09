@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://freeaistartupbusinessplanner.gianni.cyou/$1"
+ }
+  ]
+}
